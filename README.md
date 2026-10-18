@@ -32,7 +32,7 @@ Customer support taught me to listen carefully, ask useful questions, and make c
 
 I work across platforms and consider how changes affect the entire environment—for example, how an identity policy affects access to a Cloud PC, or how an endpoint deployment affects a staff member's ability to work.
 
-## Featured project
+## Featured projects
 
 ### Automated VPN Deployment for Windows 365 Cloud PCs
 
@@ -44,6 +44,21 @@ Built and tested an Azure-hosted OpenVPN pilot, then prepared Intune deployment 
 - Identified a sign-in dependency that affected Cloud PC entry and documented the need for revised policy scope.
 
 **Status:** Working pilot, with broader rollout and security validation in progress. The case study is being prepared for publication.
+
+### Project Upskill — Windows Enterprise Homelab
+
+Outside work, I'm building a personal homelab to deepen my Windows Server, networking, and identity fundamentals as I work toward greater specialization in Microsoft cloud and security technologies.
+
+**Completed and documented:**
+
+- Set up a Windows Server VM and a Windows 11 client VM in a Hyper-V lab.
+- Investigated APIPA addressing when no DHCP server was available and configured static IPv4 addresses on a shared lab subnet.
+- Troubleshot failed ping tests, adjusted Windows Firewall rules, and verified connectivity between both VMs.
+- Recorded the configuration, PowerShell commands, troubleshooting steps, results, and next actions in lab notes.
+
+**Planned next:** Active Directory Domain Services, DNS, DHCP, domain joining, and Group Policy practice. These are learning goals, not completed deployments.
+
+**Status:** In progress. Initial VM networking is documented; the Windows Server VM has not yet been promoted to a domain controller.
 
 ## How I approach IT work
 
