@@ -1,14 +1,36 @@
 # Hi, I'm Kirk
 
-I work on practical IT projects involving cloud infrastructure, endpoint management, automation, and troubleshooting. This portfolio documents what I build, how I investigate problems, and the evidence behind the results.
+**IT Specialist | Microsoft 365 Administration | Identity & Security | Healthcare IT | Automation**
 
-## Areas I work with
+I'm an IT specialist with two years of experience, currently running a one-person IT department for a substance use treatment facility based in California. I transitioned into IT from customer support, and I bring that experience into how I troubleshoot, explain technical issues, and support the people who use the systems I manage.
 
-- **Cloud infrastructure:** Microsoft Azure and Windows 365 Cloud PCs
-- **Endpoint management:** Microsoft Intune, Windows application packaging, and deployment
-- **Networking and access:** OpenVPN, routing, and Okta access workflows
-- **Automation:** PowerShell and Python
-- **Technical documentation:** implementation guides, troubleshooting records, and validation checklists
+I administer the organization's Microsoft 365 tenant end to end, alongside Azure, Okta, and Kipu CRM/EMR. My work spans daily support, identity and access management, endpoint deployment, security administration, collaboration platforms, and integrations between ClickUp and Microsoft 365.
+
+This portfolio documents the systems I build, the problems I solve, and the evidence behind the results.
+
+## What I manage
+
+| Area | Responsibilities and platforms |
+|---|---|
+| Microsoft 365 tenant | Tenant-wide administration through the Microsoft 365 admin center and associated workloads |
+| Security and information protection | Microsoft Defender and Microsoft Purview administration |
+| Identity and access | Microsoft Entra ID and Okta administration |
+| Endpoints and Cloud PCs | Microsoft Intune, Windows application deployment, and Windows 365 |
+| Cloud infrastructure | Microsoft Azure and company VPN infrastructure |
+| Collaboration | SharePoint and Microsoft Teams administration |
+| AI administration | Administration of AI capabilities within the Microsoft 365 environment |
+| Healthcare applications | Kipu CRM/EMR administration |
+| Integration and automation | ClickUp ↔ Microsoft 365 integrations and workflow automation |
+
+## Healthcare IT and HIPAA
+
+I work in an environment where the systems I build and administer must meet HIPAA requirements. I have practical knowledge of HIPAA compliance and apply it when making decisions about access, security, and how staff use company systems.
+
+## From customer support to IT
+
+Customer support taught me to listen carefully, ask useful questions, and make complex issues understandable. As a one-person IT department, I combine that foundation with hands-on administration and ownership of technical problems from investigation through resolution.
+
+I work across platforms and consider how changes affect the entire environment—for example, how an identity policy affects access to a Cloud PC, or how an endpoint deployment affects a staff member's ability to work.
 
 ## Featured project
 
@@ -25,12 +47,18 @@ Built and tested an Azure-hosted OpenVPN pilot, then prepared Intune deployment 
 
 ## How I approach IT work
 
-I break changes into manageable steps, preserve recovery access, and test installation, service operation, and user outcomes separately. I document both successful results and remaining limitations.
+- **Start with the operational need.** Understand what staff need to accomplish and the constraints of a healthcare setting.
+- **Think across systems.** Consider identity, devices, applications, security, and the user workflow together.
+- **Automate repeatable work.** Build integrations and deployment workflows that reduce recurring manual administration.
+- **Validate the outcome.** Test installation, service operation, and user access separately while preserving recovery options.
+- **Document the evidence.** Record what worked, what failed, and what still needs validation.
 
 I use AI-assisted research and scripting as part of my workflow, alongside hands-on administration, troubleshooting, and validation.
 
-## Currently developing
+## Portfolio focus
 
-- Repeatable deployment and diagnostic workflows
-- Clearer evidence for infrastructure and endpoint changes
-- A portfolio of practical IT implementation and troubleshooting case studies
+- Microsoft 365 administration and security
+- Cloud PC infrastructure and endpoint deployment
+- Identity and application access
+- ClickUp and Microsoft 365 automation
+- Healthcare IT operations and compliance-informed system design
