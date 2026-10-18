@@ -4,7 +4,7 @@
 
 I'm an IT specialist with two years of experience, currently running a one-person IT department for a substance use treatment facility based in California. I transitioned into IT from customer support, and I bring that experience into how I troubleshoot, explain technical issues, and support the people who use the systems I manage.
 
-I administer the organization's Microsoft 365 tenant end to end, alongside Azure, Okta, and Kipu CRM/EMR. My work spans daily support, identity and access management, endpoint deployment, security administration, collaboration platforms, and integrations between ClickUp and Microsoft 365.
+I administer the organization's Microsoft 365 tenant end to end, alongside Azure, Okta, and Kipu CRM/EMR. My work spans daily support, identity and access management, endpoint deployment, security administration, collaboration platforms, and business process automation through Power Automate and integrations between ClickUp and Microsoft 365.
 
 This portfolio documents the systems I build, the problems I solve, and the evidence behind the results.
 
@@ -20,7 +20,7 @@ This portfolio documents the systems I build, the problems I solve, and the evid
 | Collaboration | SharePoint and Microsoft Teams administration |
 | AI administration | Administration of AI capabilities within the Microsoft 365 environment |
 | Healthcare applications | Kipu CRM/EMR administration |
-| Integration and automation | ClickUp ↔ Microsoft 365 integrations and workflow automation |
+| Integration and automation | Power Automate cloud flows, ClickUp ↔ Microsoft 365 integrations, webhooks, and workflow automation |
 
 ## Healthcare IT and HIPAA
 
@@ -33,6 +33,22 @@ Customer support taught me to listen carefully, ask useful questions, and make c
 I work across platforms and consider how changes affect the entire environment—for example, how an identity policy affects access to a Cloud PC, or how an endpoint deployment affects a staff member's ability to work.
 
 ## Featured projects
+
+### Business Process Automation with Power Automate
+
+I build workflows that connect business processes with Microsoft Teams, Outlook, SharePoint, Microsoft Forms, and external services. My automation work includes event-triggered flows, scheduled reminders, approval workflows, and HTTP/webhook integrations.
+
+Examples from my work:
+
+- **Staff operations:** absence notification routing and overtime request approvals.
+- **Admissions coordination:** routing phone, web form, and chat admission alerts into Teams channels and group chats.
+- **Billing and administrative workflows:** invoice request notifications and scheduled billing reminders.
+- **Communications:** Dialpad and call-tracking SMS notifications delivered to Teams.
+- **IT operations:** Veeam backup webhook notifications and an internal helpdesk mailbox auto-reply workflow.
+- **Task coordination:** a meeting-to-ClickUp proof of concept.
+- **Reporting:** scheduled summary and end-of-shift digest workflows.
+
+My cloud-flow inventory includes 24 flows, spanning enabled workflows, disabled or retired flows, and proof-of-concept work. Individual case studies will document the trigger, routing logic, integrations, validation, and outcome of selected workflows.
 
 ### Automated VPN Deployment for Windows 365 Cloud PCs
 
@@ -75,5 +91,5 @@ I use AI-assisted research and scripting as part of my workflow, alongside hands
 - Microsoft 365 administration and security
 - Cloud PC infrastructure and endpoint deployment
 - Identity and application access
-- ClickUp and Microsoft 365 automation
+- Power Automate business processes and ClickUp–Microsoft 365 integrations
 - Healthcare IT operations and compliance-informed system design
