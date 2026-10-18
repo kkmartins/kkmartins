@@ -24,7 +24,7 @@ A few examples from my work:
 - **IT operations** — backup webhook notifications and a helpdesk mailbox auto-reply workflow.
 - **Staff reporting** — end-of-shift form collection into Excel with notifications and a scheduled daily digest.
 
-### Automated VPN deployment for Cloud PCs
+### [Automated VPN deployment for Cloud PCs](https://github.com/kkmartins/cloud-pc-vpn-deployment)
 Built and tested a cloud-hosted OpenVPN pilot, then prepared an Intune deployment of the client and a device-specific background configuration.
 - Traced an installation failure to an incorrect Windows service name in the deployment script and corrected it — Intune then reported a clean test-device install with zero failures.
 - Verified VPN connectivity after reboot and confirmed the expected egress address in fresh identity-provider activity.
@@ -32,7 +32,7 @@ Built and tested a cloud-hosted OpenVPN pilot, then prepared an Intune deploymen
 
 **Status:** Working pilot; broader rollout and security validation in progress.
 
-### Project Upskill — Windows enterprise homelab
+### [Project Upskill — Windows enterprise homelab](https://github.com/kkmartins/windows-enterprise-homelab)
 A personal Hyper-V lab I'm building to deepen my Windows Server, networking, and identity fundamentals.
 - Stood up a Windows Server VM and a Windows 11 client VM.
 - Diagnosed APIPA addressing with no DHCP present and configured static IPv4 on a shared lab subnet.
