@@ -36,19 +36,21 @@ I work across platforms and consider how changes affect the entire environmentâ€
 
 ### Business Process Automation with Power Automate
 
-I build workflows that connect business processes with Microsoft Teams, Outlook, SharePoint, Microsoft Forms, and external services. My automation work includes event-triggered flows, scheduled reminders, approval workflows, and HTTP/webhook integrations.
+I build workflows for staff that connect business processes with Microsoft Teams, Outlook, SharePoint, Excel, Microsoft Forms, and external services. My automation work includes event-triggered flows, scheduled reminders, approval workflows, and HTTP/webhook integrations, including workflows shared with staff for their day-to-day operations.
 
 Examples from my work:
 
 - **Staff operations:** absence notification routing and overtime request approvals.
 - **Admissions coordination:** routing phone, web form, and chat admission alerts into Teams channels and group chats.
-- **Billing and administrative workflows:** invoice request notifications and scheduled billing reminders.
+- **Billing and administrative workflows:** invoice request notifications, scheduled billing reminders, and insurance renegotiation reminders.
 - **Communications:** Dialpad and call-tracking SMS notifications delivered to Teams.
 - **IT operations:** Veeam backup webhook notifications and an internal helpdesk mailbox auto-reply workflow.
 - **Task coordination:** a meeting-to-ClickUp proof of concept.
-- **Reporting:** scheduled summary and end-of-shift digest workflows.
+- **Staff reporting:** end-of-shift form collection into Excel with record IDs, email notifications, and scheduled daily digests.
+- **Meeting coordination:** meeting summary and meeting-ID helper workflows.
+- **Maintenance and shift operations:** maintenance email-to-Teams notifications, scheduled interaction summaries, and SharePoint-triggered shift record creation.
 
-My cloud-flow inventory includes 24 flows, spanning enabled workflows, disabled or retired flows, and proof-of-concept work. Individual case studies will document the trigger, routing logic, integrations, validation, and outcome of selected workflows.
+My reviewed cloud-flow inventory includes **39 flows across My flows and Shared with me**: 24 in my own list and 15 in the shared list. These include enabled workflows, disabled or retired flows, and proof-of-concept work; related channel/group-chat variants are separate flows. Individual case studies will document the trigger, routing logic, integrations, validation, and outcome of selected workflows.
 
 ### Automated VPN Deployment for Windows 365 Cloud PCs
 
