@@ -4,7 +4,7 @@
 
 I'm an IT specialist with two years of experience, currently running a one-person IT department for a substance use treatment facility based in California. I transitioned into IT from customer support, and I bring that experience into how I troubleshoot, explain technical issues, and support the people who use the systems I manage.
 
-I administer the organization's Microsoft 365 tenant end to end, alongside Azure, Okta, and Kipu CRM/EMR. My work spans daily support, identity and access management, endpoint deployment, security administration, collaboration platforms, and business process automation through Power Automate and integrations between ClickUp and Microsoft 365.
+I administer the organization's Microsoft 365 tenant end to end, alongside Azure, Okta, and Kipu CRM/EMR. My work spans daily support, identity and access management, endpoint deployment, security administration, collaboration platforms, and business process automation through Power Automate and integrations between ClickUp and Microsoft 365. I also create and manage AI agents, serve as the company's Claude administrator, and handle software licensing.
 
 This portfolio documents the systems I build, the problems I solve, and the evidence behind the results.
 
@@ -18,7 +18,8 @@ This portfolio documents the systems I build, the problems I solve, and the evid
 | Endpoints and Cloud PCs | Microsoft Intune, Windows application deployment, and Windows 365 |
 | Cloud infrastructure | Microsoft Azure and company VPN infrastructure |
 | Collaboration | SharePoint and Microsoft Teams administration |
-| AI administration | Administration of AI capabilities within the Microsoft 365 environment |
+| AI platforms and agents | AI agent creation and management, company Claude administration, and Microsoft 365 AI administration |
+| Software licensing | Company software licensing administration |
 | Healthcare applications | Kipu CRM/EMR administration |
 | Integration and automation | Power Automate cloud flows, ClickUp ↔ Microsoft 365 integrations, webhooks, and workflow automation |
 
@@ -94,4 +95,5 @@ I use AI-assisted research and scripting as part of my workflow, alongside hands
 - Cloud PC infrastructure and endpoint deployment
 - Identity and application access
 - Power Automate business processes and ClickUp–Microsoft 365 integrations
+- AI agent creation, management, and platform administration
 - Healthcare IT operations and compliance-informed system design
